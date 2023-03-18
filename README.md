@@ -6,5 +6,5 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning python
 - 📫 How to reach me: matheusluis.coelho0404@gmail.com 
